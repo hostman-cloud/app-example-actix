@@ -1,6 +1,6 @@
 An example Actix application that can be deployed to Hostman Cloud Apps with no configuration.
 
-🎉 [Demo]
+🎉 [Demo](https://hostman-cloud-app-example-actix-6519.hostman.dev/)
 
 🚀 [Create your App](https://hostman.cloud/my/apps/create)
 
